@@ -10,7 +10,10 @@ These TL;DRs are a starting point. The linked policies and any written agreement
 
 - **Adults only:** No purchases or service engagements for anyone under 18.
 - **Where we sell:** Physical orders stay within the US. You can hire us for remote coding or consulting from outside the US, subject to legal restrictions.
-- **Agree on the details first:** Check compatibility before ordering. For custom work, we'll agree on the scope and any changes to price or schedule.
+- **Standard hardware:** Hardware we regularly stock and do not make to order or customize. Made-to-order and custom hardware are identified before payment and have different return and warranty eligibility.
+- **Agree on the details first:** Check compatibility before ordering. Custom quotes define the deliverables, price, schedule, review process, and any included revisions or support. Coding and consulting are one-off unless we agree otherwise in writing; ongoing maintenance, updates, and support are not included by default.
+- **Customer-caused delays:** If we're waiting on your files, access, decisions, or payment, we may pause work and revise the schedule. We are not responsible for delay penalties or discounts attributable to you, to the extent permitted by law. We'll communicate the revised schedule; legally required rights still apply.
+- **Written approval:** An explicit email from `Nanashi@NamelessNanashi.dev`, a message from our Discord account `NamelessNanashi` (account ID: `221701506561212416`), or an agreement we sign must identify the order or project and what is approved. Device-specific approvals also identify the device. Silence and automated receipts are not approval.
 - **Use products responsibly:** Follow instructions and safety features. Using a product on another person requires their informed, ongoing consent.
 - **Your work stays yours:** You keep ownership of materials you send us. Our work and third-party components follow the agreed terms and their licenses, including open-source licenses.
 - **Know the limits:** The full terms explain warranties, limits on liability, and how disputes are handled. They do not take away rights the law protects.
@@ -24,32 +27,40 @@ These TL;DRs are a starting point. The linked policies and any written agreement
 - **Where records live:** Customer information is stored through Stripe, Discord, and email. Those providers also have their own privacy policies.
 - **How long we keep it:** Indefinitely, without a routine deletion schedule, subject to legal requirements and provider controls.
 - **Why we use or share it:** To take payment, complete your order, provide support, keep business records, and meet legal obligations. Sharing is limited to what is needed for those purposes.
-- **You can ask about your data:** Email us to request access, a correction, or deletion. What we can delete depends on applicable rights, recordkeeping needs, and what we control.
+- **You can ask about your data:** Email us or message us on Discord to request access, a correction, or deletion. What we can delete depends on applicable rights, recordkeeping needs, and what we control.
 
 [Read the Privacy Policy](PRIVACY_POLICY.md)
 
 ## Refund and Return Policy - TL;DR
 
+**Return requests and hardware warranty coverage both have a default period of 14 calendar days after delivery.** Their eligibility rules differ, and longer legal rights still apply.
+
+Deadlines end at **11:59 p.m. America/Chicago time**. The day after delivery is day 1, and calendar days include weekends and holidays. Business days exclude weekends and observed US federal holidays. A request successfully sent on time counts even if we reply later; legally required rules take priority.
+
 - **Changed your mind about standard hardware?** Ask within **14 calendar days of delivery**. The item must be unused, complete, and resellable. Approval is not guaranteed.
 - **Possible return costs:** An approved change-of-mind return may have a restocking fee of **up to 20%**, shipping costs, and other permitted deductions. We'll explain these before you send it back.
 - **Shipping is non-refundable:** You pay original, return, and replacement shipping, including when a device's fault is ours. We do not refund or reimburse those costs unless a written warranty or applicable law requires it.
-- **Custom work and services:** Custom items, delivered digital work, and completed services generally cannot be returned just because you changed your mind. If you cancel a project, we'll account for completed work and agreed costs that cannot be recovered, then refund any balance owed to you.
-- **Something arrived wrong or damaged?** Contact us as soon as you can, ideally within **7 calendar days**. That reporting request does not shorten your warranty or legal rights.
-- **Faulty standard device and the fault is ours?** Once we confirm the cause, the replacement device is free, with no restocking or processing fees, even if you've opened or used the device. You pay return and replacement shipping within the US unless a written warranty or applicable law requires us to cover it. Custom-built or custom-modified hardware is excluded unless we state otherwise in writing for your order; warranty and legal rights still apply. If a suitable replacement is unavailable, we'll offer an agreed repair or a refund.
+- **Made-to-order items, custom work, and services:** Made-to-order or custom hardware, delivered digital work, and completed services generally cannot be returned just because you changed your mind. If you cancel a project, we'll account for completed work and agreed costs that cannot be recovered, then refund any balance owed to you.
+- **Something arrived wrong or damaged?** Contact us as soon as you can and report covered faults within the **14-calendar-day warranty period after delivery**, unless your order specifies a different period before purchase. Any longer warranty or legal rights still apply.
+- **Limited hardware warranty:** Report faults caused by us within **14 calendar days after delivery**, unless your order specifies a different period before purchase. A timely claim stays open while we resolve it. The replacement device is free and may be **new or tested refurbished**; we'll disclose its condition before arranging the exchange. You pay required shipping unless another warranty or law requires otherwise. Opened or used standard devices qualify; made-to-order and custom hardware are excluded unless expressly included in writing. If a suitable replacement is unavailable, we'll offer an agreed repair or a refund. Longer legal rights still apply.
+- **If inspection finds no covered fault:** We'll explain the findings and discuss returning your device or an optional paid repair. Inspection fees or paid repairs need your written agreement on scope and price beforehand. Confirmed covered faults have no inspection fee.
 - **Refund timing:** We aim to process approved voluntary-return refunds within **10 business days of receiving the item**, and service-cancellation refunds within **10 business days of confirming cancellation**. Shorter legal deadlines take priority; bank processing may take longer.
-- **An optional way to save exchange shipping:** For approved exchanges only, you can ask about video-confirmed destruction instead of mailing faulty hardware back, or we may offer it ourselves. Approval is entirely our choice and is not guaranteed. **This option is not available for refunds or returns for a refund. Do not destroy anything unless we explicitly approve this in writing for your specific device and exchange and provide instructions.** You do not have to accept; returning the device through the approved process is always an option. If either of us declines the destruction option, an otherwise eligible exchange remains available through the normal return process. If approved, follow our chosen method safely and send the required video for verification. You still pay replacement shipping unless a warranty or law requires otherwise; custom hardware remains excluded unless agreed in writing.
+- **An optional way to save exchange shipping:** You may ask for video-confirmed destruction, or we may offer it. Approval is entirely our choice. **It is for exchanges only, not refunds. Do not destroy anything without our explicit written approval and instructions for your device.** We'll reserve a replacement and confirm its model, new or refurbished condition, shipping cost, and expected dispatch date first. You may always choose the normal return process instead. If approved, follow our method safely and submit the required video. Replacement shipping remains your responsibility unless another warranty or law requires otherwise; made-to-order and custom-hardware exclusions still apply.
 - **Ask before mailing a return:** We'll provide approval and the correct address. International service customers keep any cancellation or refund rights that applicable local law requires.
 
 [Read the Refund and Return Policy](REFUND_AND_RETURN_POLICY.md)
 
 ## Need a Hand?
 
-Email us with your question or order details, and we'll help you work out the next step.
+Email us or message us on Discord with your question or order details, and we'll help you work out the next step.
+
+Email: [Nanashi@NamelessNanashi.dev](mailto:Nanashi@NamelessNanashi.dev)\
+Discord: `NamelessNanashi` (account ID: `221701506561212416`)
+
+**We do not accept routine customer communication by postal mail.** The address below is for legal correspondence. This does not restrict legally required notices or communication methods.
 
 **NamelessNanashi**\
 PO Box 163\
-Elm Grove WI 53122-0163\
-Email: [Nanashi@NamelessNanashi.dev](mailto:Nanashi@NamelessNanashi.dev)\
-Discord: `NamelessNanashi`
+Elm Grove WI 53122-0163
 
-For a return, contact us for authorization and the correct destination before mailing a product. The mailing address above is not automatically a return address.
+For a return, contact us by email or Discord for authorization and the correct destination before shipping a product. The legal correspondence address is not automatically a return address.

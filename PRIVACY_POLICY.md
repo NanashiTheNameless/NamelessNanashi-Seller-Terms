@@ -76,7 +76,7 @@ We use reasonable safeguards for the accounts and information under our control 
 
 ## 8. Your Choices and Privacy Requests
 
-Contact [Nanashi@NamelessNanashi.dev](mailto:Nanashi@NamelessNanashi.dev) to request access to, correction of, or deletion of your personal information. Depending on where you live and whether a law applies to our business, you may also have rights to obtain a copy, restrict certain uses, appeal a request decision, or act through an authorized agent.
+Email [Nanashi@NamelessNanashi.dev](mailto:Nanashi@NamelessNanashi.dev) or contact `NamelessNanashi` on Discord (account ID: `221701506561212416`) to request access to, correction of, or deletion of your personal information. Depending on where you live and whether a law applies to our business, you may also have rights to obtain a copy, restrict certain uses, appeal a request decision, or act through an authorized agent.
 
 We may request information reasonably needed to verify your identity or an agent's authority. Do not send identity documents unless we request them through an appropriate process. We will respond within any deadline required by applicable law and explain if we cannot fulfill all or part of a request. We will not unlawfully discriminate against you for exercising a privacy right.
 
@@ -102,10 +102,15 @@ We may update this Privacy Policy and will identify the effective date of each v
 
 ## 12. Contact Us
 
-Have a privacy question or want help with your information? Contact us at:
+Have a privacy question or want help with your information? Please use email or Discord:
+
+Email: [Nanashi@NamelessNanashi.dev](mailto:Nanashi@NamelessNanashi.dev)\
+Discord: `NamelessNanashi` (account ID: `221701506561212416`)
+
+We do not accept routine customer communication by postal mail. This does not restrict legally required notices or communication methods.
+
+Legal correspondence address:
 
 **NamelessNanashi**\
 PO Box 163\
-Elm Grove WI 53122-0163\
-Email: [Nanashi@NamelessNanashi.dev](mailto:Nanashi@NamelessNanashi.dev)\
-Discord: `NamelessNanashi`
+Elm Grove WI 53122-0163

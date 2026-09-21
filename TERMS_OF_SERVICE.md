@@ -24,6 +24,8 @@ Nothing in these Terms takes away consumer rights or remedies that the law does 
 
 We may sell OpenShock-related hardware, custom hardware, assembled kits, firmware, code work, consulting, debugging, repair, and other services. We may change or discontinue future offerings. Changes do not remove our obligations for accepted orders, written warranties, or paid services.
 
+**Standard hardware** means hardware we regularly stock and do not make to order or customize for a customer. **Made-to-order hardware** is built for an order rather than supplied from our regular stock, even if it follows an existing design. **Custom hardware** is designed, built, or modified to a customer's specific requirements. Made-to-order and custom hardware are not standard hardware for return or warranty eligibility. We will identify that status in the listing or quote before payment.
+
 ## 3. Compatibility
 
 Please check the product's stated requirements before ordering. If you're unsure whether something will work with your setup, ask us. Our compatibility commitments cover what the product description or our written agreement says; they do not extend to other devices, platforms, firmware, accessories, or future third-party changes.
@@ -32,9 +34,24 @@ Please check the product's stated requirements before ordering. If you're unsure
 
 Prices, descriptions, lead times, and availability may change before an order is accepted. Unless a quote provides otherwise, we accept an order when we expressly confirm acceptance in writing, ship the item, or begin the agreed service. An automated receipt only acknowledges that we received the order.
 
+For these policies, written approval from us means an explicit approval in an email from **Nanashi@NamelessNanashi.dev**, a message from our Discord account **NamelessNanashi** (account ID: `221701506561212416`), or an agreement signed by us. It must identify the relevant order or project and what we are approving. A device-specific approval must also identify the device, using its serial number if available or another agreed identifier. Silence, an automated receipt, a general policy statement, or another person's message is not approval. An agreement that requires both parties' acceptance must also have your written acceptance.
+
+For Discord messages, verify the account ID is **221701506561212416**. A matching username or display name alone is not enough; messages from a different account ID are not approval from us.
+
 We may refuse, cancel, or limit orders for reasons such as suspected fraud, stock limits, pricing errors, or legal restrictions, subject to applicable law. If an accepted order requires a price increase or material change, we will ask you to agree before proceeding; you may decline and cancel the affected portion.
 
 If we cancel an unfulfilled item or service, we will refund the amount paid for that item or service, including applicable taxes, without a processing or restocking deduction. Shipping charges are non-refundable unless a written warranty or applicable law requires otherwise, including where the law requires a full refund for an unshipped order. Completed service work and shipping charges are handled under the Refund and Return Policy. We will provide any larger refund required by law.
+
+### How We Count Deadlines
+
+Unless we agree otherwise in writing, deadlines in these policies use **America/Chicago time (Central Time, including daylight saving time when applicable)**. A deadline stated as a date ends at **11:59 p.m.** on that date.
+
+- **Calendar days** include weekends and holidays. The day after delivery or another triggering event is day 1. For example, a 14-calendar-day period after delivery on September 1 ends at 11:59 p.m. Central Time on September 15. It does not automatically move to the next business day.
+- **Business days** are Monday through Friday, excluding observed US federal holidays. Counting starts on the first business day after the triggering event. This definition does not promise that we are available for support every business day.
+- **Requests and fault reports** count when successfully sent to our listed email address or the Discord account ID above, based on the message timestamp, not when we read or answer them. Keep a copy. If a message fails to send or is returned as undeliverable, try the other contact method promptly.
+- **Return shipping deadlines** are separate from the deadline to request a return. An approval will state the send-by date; unless we expressly say otherwise, that means handing the package to the carrier by that date, not its arrival here.
+
+A timely request must identify the order or device sufficiently for us to find the purchase and explain the return request or fault. Supporting photos, videos, and troubleshooting can follow as reasonably needed; waiting for our reply does not make an otherwise timely request late. Any deadline or counting rule required by law takes priority, including for refunds and privacy requests.
 
 ## 5. Payment
 
@@ -61,7 +78,24 @@ Unless we agree otherwise in writing:
 - Part substitutions must meet the agreed specifications; material changes require your approval.
 - Changes after approval may require a revised scope, price, and schedule, which we will agree with you before doing the additional work.
 
-Our written scope should explain what you'll receive, the project stages, what we need from you, and any included support or revisions. Cancellation and payment for completed work follow the Refund and Return Policy.
+Before paid work begins, the quote or written scope will identify:
+
+- The work, files, code, hardware, or consulting session you are buying, including whether source files are included.
+- The price, payment stages, expected schedule, and information or access we need from you.
+- How we will check that the work meets the agreed requirements and how you will review and approve it.
+- Any included revision rounds, bug-fix period, updates, or support. If included, the scope will state their limits and when they end.
+
+**Coding and consulting are one-off engagements unless we agree otherwise in writing.** By default, the price covers the agreed deliverable or session, not additional revision rounds, ongoing maintenance, future compatibility updates, or continuing support. Any extra work needs a separate agreement on scope and price before it begins.
+
+For a deliverable, we'll tell you when it is ready for review. Please either confirm acceptance in writing or explain how it falls short of the agreed requirements. We'll address those differences under the agreement and applicable law; a request for new features or changed preferences is additional work. For consulting sold as a session or block of time, completion means providing that session or time and any expressly agreed follow-up deliverables. Your silence alone does not count as approval of incomplete or nonconforming work.
+
+The one-off arrangement does not excuse a failure to deliver the agreed work or remove any correction, refund, or other remedy owed under the agreement or law. Cancellation and payment for completed work follow the Refund and Return Policy.
+
+### Delays Caused by the Customer
+
+Schedules depend on you providing agreed files, access, information, decisions, feedback, and payments on time. If missing, late, or inaccurate information, requested changes, or another action or omission by you delays the work, we may pause the affected work and move its completion date. We'll explain what is needed and provide a revised schedule that allows for the delay and reasonable time to restart.
+
+**To the extent permitted by law, we are not responsible for delays caused by you and are not liable for penalties, late fees, damages, or discounts solely because of those delays.** This protection applies only to the part of a delay attributable to you. It does not excuse delays caused by us or remove cancellation, refund, or other rights required by law. Extra work or costs still require your written agreement before we incur or charge them.
 
 ## 8. Acceptable Use
 
@@ -91,9 +125,11 @@ You give us a non-exclusive license to use and reproduce those materials, and to
 
 ## 12. Warranties
 
-Except for express commitments in these policies, the accepted order, product description, or a written warranty, and to the extent permitted by law, products and services are provided **"as is" and "as available," without implied warranties of merchantability, fitness for a particular purpose, or non-infringement**. We do not disclaim implied warranties where a written consumer-product warranty, service contract, or applicable law prohibits doing so.
+Standard hardware, as defined in Section 2, has the **Limited Hardware Warranty** in Section 5 of the [Refund and Return Policy](REFUND_AND_RETURN_POLICY.md#5-defective-damaged-or-incorrect-items). The default coverage period is **14 calendar days after delivery**, unless a different period is stated in writing for your order before purchase. Report the fault within that period; a timely claim does not expire while we assess or resolve it. The warranty covers faults caused by our assembly, workmanship, configuration, or another error on our part. Replacements may be new or tested refurbished devices that meet the agreed specifications. You pay required return and replacement shipping unless a separate written warranty or applicable law requires otherwise. Made-to-order and custom hardware are excluded unless expressly covered in writing.
 
-If a standard, non-custom device is faulty because of our assembly, workmanship, configuration, or another error on our part, we'll offer a replacement device at no charge as explained in Section 5 of the [Refund and Return Policy](REFUND_AND_RETURN_POLICY.md#5-defective-damaged-or-incorrect-items). You pay return and replacement shipping unless a written warranty or applicable law requires us to cover those costs. Custom-built or custom-modified hardware is excluded from this exchange offer unless we expressly state otherwise in writing for your order. Any remedy required by an applicable warranty or law still applies. The exclusions below do not remove the exchange promise for eligible devices.
+**The "as is" disclaimer below does not apply to hardware covered by our written warranty. We do not disclaim or shorten implied warranties for that hardware.** The 14-day period limits our voluntary written coverage, not any longer rights provided by law.
+
+For products or services without a written warranty, and only to the extent permitted by law, we disclaim implied warranties of merchantability, fitness for a particular purpose, and non-infringement and provide them **"as is" and "as available."** This does not override express commitments in the accepted order, product description, or these policies, or disclaim an implied warranty where a service contract or applicable law prohibits doing so.
 
 Software, firmware, configuration, and code may require updates or depend on third-party systems; we do not promise uninterrupted or error-free operation. Unless a warranty or law provides otherwise, coverage excludes damage caused by misuse, overvoltage, liquid exposure, physical damage, normal wear, improper installation, or modifications. A modification or third-party repair does not by itself exclude coverage for an unrelated defect.
 
@@ -102,6 +138,8 @@ Software, firmware, configuration, and code may require updates or depend on thi
 To the maximum extent allowed by law, we are not liable for indirect, incidental, special, consequential, exemplary, or punitive damages, or for lost profits, lost revenue, lost data, downtime, replacement costs, or business interruption. Our total liability for any claim related to the products, services, or these Terms will not exceed the amount you paid us for the item or service in the 12 months before the event.
 
 These limitations do not reduce refunds expressly owed under these policies or exclude liability for fraud, intentional misconduct, gross negligence, or any injury, loss, or other liability that applicable law does not allow us to limit.
+
+They also do not reduce the exchange, repair, or refund remedies promised under our Limited Hardware Warranty. Some states do not allow the exclusion or limitation of incidental or consequential damages, so the above limitation or exclusion may not apply to you.
 
 ## 14. Responsibility for Third-Party Claims
 
@@ -129,12 +167,17 @@ If a provision is unenforceable, the remaining provisions continue to apply to t
 
 ## 19. Contact
 
-Have a question about these Terms or a project? You can reach us at:
+Have a question about these Terms or a project? Please use email or Discord:
+
+Email: [Nanashi@NamelessNanashi.dev](mailto:Nanashi@NamelessNanashi.dev)\
+Discord: `NamelessNanashi` (account ID: `221701506561212416`)
+
+**We do not accept routine customer communication by postal mail.** Please use email or Discord for order questions, support, warranty claims, returns, exchanges, and privacy requests. This does not restrict legally required notices or communication methods.
+
+Legal correspondence address:
 
 **NamelessNanashi**\
 PO Box 163\
-Elm Grove WI 53122-0163\
-Email: [Nanashi@NamelessNanashi.dev](mailto:Nanashi@NamelessNanashi.dev)\
-Discord: `NamelessNanashi`
+Elm Grove WI 53122-0163
 
-This is our mailing address. Contact us for return instructions before sending a product; the return destination may differ.
+This address is not automatically a product return destination. Contact us by email or Discord for authorization and return instructions before sending a product.
