@@ -12,7 +12,7 @@ Depending on your order and how you contact us, we may receive:
 
 - **Contact information:** your name, email address, shipping and billing addresses, phone number, and Discord username or user ID.
 - **Order and transaction information:** quotes, items purchased, invoices, payment status, transaction references, and refund or dispute records.
-- **Communications and project materials:** Discord messages, emails, support requests, files, code, specifications, photographs, and other information you send us.
+- **Communications and project materials:** Discord messages, emails, support requests, files, code, specifications, photographs, videos (including proof of approved hardware destruction for an exchange), and other information you send us.
 
 Please send only information needed for your order or request. Do not send passwords, private keys, full payment-card details, or unrelated sensitive information through Discord or email.
 
@@ -35,6 +35,7 @@ We use personal information to:
 - Prepare quotes, process payments, fulfill orders, and handle cancellations, returns, and refunds.
 - Perform agreed custom work, repairs, and other services.
 - Answer questions and provide technical or order support.
+- Review photos or videos to assess faults and verify an approved exchange, including any agreed destruction of the faulty hardware.
 - Send order confirmations, shipping updates, safety notices, and other messages related to your purchase or request.
 - Maintain business records, address fraud or security issues, comply with legal obligations, and resolve disputes.
 

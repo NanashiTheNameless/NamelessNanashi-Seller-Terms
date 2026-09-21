@@ -66,6 +66,22 @@ For other confirmed problems we're responsible for, we'll provide the remedy req
 
 This exchange promise does not cover faults caused by customer or third-party misuse, improper installation or power, accidents, liquid exposure, normal wear, modifications, or repairs, unless a warranty or law provides otherwise. A modification or third-party repair does not automatically exclude coverage for an unrelated fault caused by us.
 
+### Exchanges Without Sending the Device Back
+
+**You may ask us about this option, but approval is entirely at our discretion and is not guaranteed. Do not destroy your hardware unless we explicitly approve this option in writing for your specific device and exchange and provide instructions. Asking for it, or reading this policy, is not permission to destroy anything.**
+
+**This option is only for approved exchanges. It is not available for refunds or returns for a refund.** Destroying the hardware does not count as returning it for a refund and does not create a right to a refund. If you want a refund instead of an exchange, contact us before taking any action and follow the normal return process. Any rights required by law still apply.
+
+We may offer video-confirmed destruction ourselves or approve your request for it to save you the cost of shipping the faulty hardware back. **This is entirely optional. You can always choose to ship the device back through the approved return process instead.** Whether you decline the option or we decline your request, an otherwise eligible exchange remains available through the normal return process. If you choose an approved destruction option, you must use the method and specifications we provide and record the process on video.
+
+Wait for our explicit written approval and instructions before doing anything to destroy the device. We'll provide the destruction method, the parts it applies to, and what the video must clearly show to identify the device and confirm that you followed our instructions. Please send the video privately by email or Discord; you do not need to post it publicly or include unrelated personal information.
+
+Once we verify that the video meets the agreed requirements, we'll proceed with the approved exchange without requiring the hardware back. Destruction carried out under our written instructions will not itself disqualify that exchange. Destroying a device without our prior approval does not qualify it for this option.
+
+Only proceed if you want to use this option and can follow the instructions safely. Do not attempt a method that could injure someone. You can choose the normal return process for any reason, including if you are unsure or cannot safely record the process. Contact us for return instructions before mailing the device. If you choose destruction, dispose of the remains through an appropriate electronics disposal service.
+
+This option does not change exchange eligibility or the exclusion for custom hardware. When we waive the return, there is no return shipping to pay, but you still pay replacement shipping unless a written warranty or applicable law requires otherwise. Shipping charges already paid remain subject to Section 8. Your warranty and legal rights still apply.
+
 ## 6. Restocking Fee and Other Deductions
 
 An approved voluntary return of a non-defective item may carry a restocking fee of **up to 20% of the item's purchase price**, excluding taxes and shipping. We will identify the applicable percentage or amount before you send the return.
@@ -76,7 +92,7 @@ No restocking or payment-processing fee applies to a return or exchange caused b
 
 For an approved change-of-mind return, you pay return shipping and any optional insurance and, to the extent permitted by law, bear the risk of loss during return transit. Use suitable packaging and a tracked service. If we provide a prepaid label for such a return, we will disclose any label charge before deducting it.
 
-For a faulty-device exchange, you pay both return and replacement shipping, including when the fault is ours, unless a written warranty or applicable law requires us to cover those costs. If we arrange a shipping label, we'll tell you its cost and how to pay before issuing it.
+For a faulty-device exchange, you pay any required return shipping and replacement shipping, including when the fault is ours, unless a written warranty or applicable law requires us to cover those costs. If we approve the video-confirmed destruction option in Section 5, no return shipment is required, but you still pay replacement shipping. If we arrange a shipping label, we'll tell you its cost and how to pay before issuing it.
 
 You also pay return shipping when returning an item for a refund, including when the fault is ours. We do not reimburse shipping costs unless a written warranty or applicable law requires us to do so. Please contact us for return instructions before buying a label or sending an item.
 
