@@ -2,7 +2,7 @@
 
 **Effective date:** September 21, 2026
 
-Need help with an order or a change of plans? This policy explains returns, cancellations, and refunds for purchases from **NamelessNanashi**. Physical orders are US-only; coding, consulting, and other remotely delivered services are available internationally, where legally permitted. Purchases and service engagements are limited to customers who are at least 18 and meet the age requirement in our [Terms of Service](TERMS_OF_SERVICE.md).
+Need help with an order or a change of plans? This policy explains returns, exchanges for faulty devices, cancellations, and refunds for purchases from **NamelessNanashi**. Physical orders are US-only; coding, consulting, and other remotely delivered services are available internationally, where legally permitted. Purchases and service engagements are limited to customers who are at least 18 and meet the age requirement in our [Terms of Service](TERMS_OF_SERVICE.md).
 
 Please read this policy alongside those Terms. If we both accept a written agreement for your order, it takes priority on the topics it specifically covers. A separate written warranty takes priority for its coverage and claim process.
 
@@ -42,7 +42,7 @@ We'll explain how we calculated the amount due and refund any extra you've alrea
 
 For international services or digital work, local law may give you a cooling-off period or require a separate request or consent before work starts or digital content is supplied during that period. Where those rules apply, we'll provide the required information and obtain the required request or consent. Accepting this policy alone does not waive those rights. Any cancellation charge must follow those rules.
 
-If we cancel an unfulfilled item or service, we will refund the amount paid for that portion, including applicable taxes and shipping attributable to it, without processing or restocking deductions. If a shipping delay gives you a right to cancel under applicable law, we will provide the required notice and full refund for the canceled portion within the required period.
+If we cancel an unfulfilled item or service, we will refund the amount paid for that item or service, including applicable taxes, without processing or restocking deductions. Shipping charges are handled under Section 8. If a shipping delay gives you a right to cancel under applicable law, we will provide the required notice and full refund for the canceled portion, including any shipping charges required by law, within the required period.
 
 ## 5. Defective, Damaged, or Incorrect Items
 
@@ -50,25 +50,41 @@ If an item arrives damaged, faulty, incomplete, or significantly different from 
 
 Include your order number, a description of the problem, and photos or video if reasonably available and safe to obtain. Do not keep using a potentially unsafe item to reproduce a problem. Keep relevant packaging if possible for a shipping claim.
 
-We may ask you to try reasonable troubleshooting steps or send the item for inspection. If we confirm a problem we're responsible for, we'll provide the remedy required by your warranty, agreement, or the law. Where we can choose how to resolve it, we may repair the item, replace it or its parts, or issue a refund. We may offer store credit as an option, but won't use it instead of a refund legally owed without your agreement.
+We may ask you to try reasonable, safe troubleshooting steps or send the item for inspection so we can understand what went wrong.
 
-Unless a warranty or law provides otherwise, coverage excludes damage caused by misuse, improper installation or power, accidents, liquid exposure, normal wear, modifications, or repairs. A modification or third-party repair does not automatically exclude coverage for an unrelated defect.
+### Exchanges When the Fault Is Ours
+
+**If a standard, non-custom device is faulty because of something we did wrong, we'll offer a replacement device at no charge once we confirm the cause. You pay return and replacement shipping, unless a written warranty or applicable law requires us to cover those costs.** This includes faults caused by our assembly, workmanship, or configuration. It applies even if you've opened or used the eligible device; the unused-item and change-of-mind return limits do not apply to these exchanges.
+
+**Custom-built or custom-modified hardware is excluded from this exchange offer unless we expressly state otherwise in writing for your order.** This exclusion does not remove any remedy required by an applicable warranty or law.
+
+Please contact us by email or on Discord before sending the device back. We'll arrange the return and, unless we agree otherwise, inspect the device before sending a replacement. We'll exchange it for a working device of the same model and agreed specifications. A different model or substitute requires your agreement.
+
+You are responsible for shipping the faulty device to us and for shipping the replacement to you within the United States, even when the fault is ours, unless a written warranty or applicable law requires otherwise. We'll explain the shipping costs and payment arrangements before you send the device back. There is no restocking, payment-processing, or exchange fee. We'll let you know the expected replacement timing and keep you informed about delays. If a suitable replacement is unavailable, we'll offer a repair with your agreement or a refund for the faulty device, including applicable taxes. Shipping charges remain non-refundable as explained in Section 8. Any remedy or deadline required by law takes priority.
+
+For other confirmed problems we're responsible for, we'll provide the remedy required by your warranty, agreement, or the law. Where we can choose how to resolve the problem, we may offer a repair, replacement parts, or a refund. Store credit is optional and will not replace a refund legally owed without your agreement.
+
+This exchange promise does not cover faults caused by customer or third-party misuse, improper installation or power, accidents, liquid exposure, normal wear, modifications, or repairs, unless a warranty or law provides otherwise. A modification or third-party repair does not automatically exclude coverage for an unrelated fault caused by us.
 
 ## 6. Restocking Fee and Other Deductions
 
 An approved voluntary return of a non-defective item may carry a restocking fee of **up to 20% of the item's purchase price**, excluding taxes and shipping. We will identify the applicable percentage or amount before you send the return.
 
-No restocking or payment-processing fee applies to a return caused by our error, a confirmed defect for which we are responsible, or our cancellation of an unfulfilled order. Any deductions remain subject to applicable law. We will provide an explanation of deductions from an approved refund.
+No restocking or payment-processing fee applies to a return or exchange caused by our error, a confirmed defect for which we are responsible, or our cancellation of an unfulfilled order. Any deductions remain subject to applicable law. We will provide an explanation of deductions from an approved refund.
 
 ## 7. Return Shipping
 
 For an approved change-of-mind return, you pay return shipping and any optional insurance and, to the extent permitted by law, bear the risk of loss during return transit. Use suitable packaging and a tracked service. If we provide a prepaid label for such a return, we will disclose any label charge before deducting it.
 
-If the return is due to our error or a confirmed defect for which we are responsible, we will provide a prepaid label or arrange reimbursement of reasonable return shipping. Contact us before buying a label so we can agree on the method and cost. We will also cover any return costs required by a written warranty or law.
+For a faulty-device exchange, you pay both return and replacement shipping, including when the fault is ours, unless a written warranty or applicable law requires us to cover those costs. If we arrange a shipping label, we'll tell you its cost and how to pay before issuing it.
 
-## 8. Original Shipping Charges
+You also pay return shipping when returning an item for a refund, including when the fault is ours. We do not reimburse shipping costs unless a written warranty or applicable law requires us to do so. Please contact us for return instructions before buying a label or sending an item.
 
-Original shipping charges are generally not refunded for voluntary change-of-mind returns. We will refund shipping charges attributable to an item returned because of our error or a confirmed defect for which we are responsible, and any shipping charges required by law. Cancellation of unfulfilled orders is governed by Section 4.
+## 8. Shipping Charges Are Non-Refundable
+
+**We do not refund original, return, or replacement shipping charges**, including for returns or exchanges involving a fault caused by us, unless a written warranty or applicable law requires otherwise. An approved refund normally covers the item and applicable taxes, less any permitted deductions, without shipping charges.
+
+This does not allow us to withhold shipping charges that must be included in a legally required refund, including a required full refund for an unshipped order. Cancellation of unfulfilled orders is governed by Section 4.
 
 ## 9. Refund Method and Timing
 
@@ -86,11 +102,11 @@ We may provide relevant order records, delivery evidence, communications, or pro
 
 ## 11. Warranty Claims
 
-If a product includes a separate written warranty, follow its claim instructions and coverage terms. This policy does not create an additional voluntary product warranty or limit any warranty or remedy imposed by law.
+If a product includes a separate written warranty, follow its claim instructions and coverage terms. That warranty does not reduce our exchange promise for faults caused by us in Section 5. Nothing in this policy limits any warranty or remedy imposed by law.
 
 ## 12. How to Request Help
 
-Email [Nanashi@NamelessNanashi.dev](mailto:Nanashi@NamelessNanashi.dev) with your name, order number, affected items or service, and a description of the request. Include photos or video for damage or defects if reasonably available and safe to obtain. Do not include full payment-card details or passwords.
+Email [Nanashi@NamelessNanashi.dev](mailto:Nanashi@NamelessNanashi.dev) or contact `NamelessNanashi` on Discord with your name, order number, affected items or service, and a description of the request. If you're asking for an exchange, tell us what's wrong with the device. Include photos or video for damage or defects if reasonably available and safe to obtain. Do not include full payment-card details or passwords.
 
 Our mailing address is:
 

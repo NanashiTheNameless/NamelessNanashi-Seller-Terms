@@ -34,7 +34,7 @@ Prices, descriptions, lead times, and availability may change before an order is
 
 We may refuse, cancel, or limit orders for reasons such as suspected fraud, stock limits, pricing errors, or legal restrictions, subject to applicable law. If an accepted order requires a price increase or material change, we will ask you to agree before proceeding; you may decline and cancel the affected portion.
 
-If we cancel an unfulfilled item or service, we will refund the amount paid for that portion, including applicable taxes and shipping charges attributable to it, without a processing or restocking deduction. Completed service work is handled under the Refund and Return Policy. We will provide any larger refund required by law.
+If we cancel an unfulfilled item or service, we will refund the amount paid for that item or service, including applicable taxes, without a processing or restocking deduction. Shipping charges are non-refundable unless a written warranty or applicable law requires otherwise, including where the law requires a full refund for an unshipped order. Completed service work and shipping charges are handled under the Refund and Return Policy. We will provide any larger refund required by law.
 
 ## 5. Payment
 
@@ -91,7 +91,9 @@ You give us a non-exclusive license to use and reproduce those materials, and to
 
 ## 12. Warranties
 
-Except for express commitments in the accepted order, product description, or a written warranty, and to the extent permitted by law, products and services are provided **"as is" and "as available," without implied warranties of merchantability, fitness for a particular purpose, or non-infringement**. We do not disclaim implied warranties where a written consumer-product warranty, service contract, or applicable law prohibits doing so.
+Except for express commitments in these policies, the accepted order, product description, or a written warranty, and to the extent permitted by law, products and services are provided **"as is" and "as available," without implied warranties of merchantability, fitness for a particular purpose, or non-infringement**. We do not disclaim implied warranties where a written consumer-product warranty, service contract, or applicable law prohibits doing so.
+
+If a standard, non-custom device is faulty because of our assembly, workmanship, configuration, or another error on our part, we'll offer a replacement device at no charge as explained in Section 5 of the [Refund and Return Policy](REFUND_AND_RETURN_POLICY.md#5-defective-damaged-or-incorrect-items). You pay return and replacement shipping unless a written warranty or applicable law requires us to cover those costs. Custom-built or custom-modified hardware is excluded from this exchange offer unless we expressly state otherwise in writing for your order. Any remedy required by an applicable warranty or law still applies. The exclusions below do not remove the exchange promise for eligible devices.
 
 Software, firmware, configuration, and code may require updates or depend on third-party systems; we do not promise uninterrupted or error-free operation. Unless a warranty or law provides otherwise, coverage excludes damage caused by misuse, overvoltage, liquid exposure, physical damage, normal wear, improper installation, or modifications. A modification or third-party repair does not by itself exclude coverage for an unrelated defect.
 
