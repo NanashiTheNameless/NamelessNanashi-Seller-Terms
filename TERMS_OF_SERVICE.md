@@ -1,52 +1,67 @@
 # Terms of Service
 
-**Effective date:** June 22, 2026
+**Effective date:** September 21, 2026
 
-These Terms of Service ("Terms") govern your access to and use of the websites, stores, checkout pages, products, hardware, firmware, software, code, support, and related services offered by **NamelessNanashi** ("we," "us," "our"). By placing an order, accessing our website, or using any of our products or services, you agree to these Terms.
+Thanks for your interest in **NamelessNanashi** ("we," "us," "our"). These Terms of Service ("Terms") explain what to expect when you buy our hardware, software, custom work, or services, or use our website. By placing an order or otherwise accepting these Terms, you agree to them.
 
-If you do not agree, do not use our website, do not place an order, and do not use our products or services.
+Please read these Terms before ordering. If something is unclear, contact us and we'll help explain it. If you do not agree, please do not place an order or use our products or services.
+
+Our [Refund and Return Policy](REFUND_AND_RETURN_POLICY.md) explains cancellations, returns, and refunds. Our [Privacy Policy](PRIVACY_POLICY.md) explains how we handle personal information.
+
+If we both accept a written agreement for your order, it takes priority on the topics it specifically covers. The Refund and Return Policy takes priority for returns and refunds, and a separate written warranty takes priority for its coverage and claim process. Your rights under applicable law still apply.
+
+Nothing in these Terms takes away consumer rights or remedies that the law does not allow you to give up.
 
 ## 1. Who May Buy
 
-You must be at least 18 years old, or the age of majority where you live, whichever is higher. If you buy for a company or other entity, you must have authority to bind it.
+**You must be at least 18 to buy products or hire us for services.** If the legal age of adulthood where you live is higher, you must meet that age too. If you buy for a company or other organization, you must have permission to agree to these Terms on its behalf.
+
+**Physical orders are limited to the United States.** We do not accept international physical orders or offer international shipping.
+
+**Coding, consulting, and other remotely delivered services are available internationally**, where legally permitted. The US-only restriction applies to physical orders, not to remote service work. Any physical items included in a service project remain subject to the physical-order restriction.
 
 ## 2. Our Products and Services
 
-We may sell OpenShock-related hardware, custom hardware, assembled kits, firmware, code work, consulting, debugging, repair, and other services. We may change or stop any product or service at any time.
+We may sell OpenShock-related hardware, custom hardware, assembled kits, firmware, code work, consulting, debugging, repair, and other services. We may change or discontinue future offerings. Changes do not remove our obligations for accepted orders, written warranties, or paid services.
 
-## 3. No Assurance of Compatibility
+## 3. Compatibility
 
-Unless we say otherwise in writing, we do not guarantee compatibility with any third-party device, software, platform, firmware, controller, accessory, or system. You are responsible for checking compatibility before ordering.
+Please check the product's stated requirements before ordering. If you're unsure whether something will work with your setup, ask us. Our compatibility commitments cover what the product description or our written agreement says; they do not extend to other devices, platforms, firmware, accessories, or future third-party changes.
 
 ## 4. Orders, Pricing, and Acceptance
 
-Prices, descriptions, images, lead times, and availability can change without notice. Quotes are not binding until we accept the order or ship the item.
+Prices, descriptions, lead times, and availability may change before an order is accepted. Unless a quote provides otherwise, we accept an order when we expressly confirm acceptance in writing, ship the item, or begin the agreed service. An automated receipt only acknowledges that we received the order.
 
-We may refuse, cancel, or limit any order for any reason, including fraud risk, stock limits, pricing errors, policy issues, or legal concerns.
+We may refuse, cancel, or limit orders for reasons such as suspected fraud, stock limits, pricing errors, or legal restrictions, subject to applicable law. If an accepted order requires a price increase or material change, we will ask you to agree before proceeding; you may decline and cancel the affected portion.
 
-If we cancel after payment, we will refund what we received for the canceled item or service, minus any non-refundable processing charges allowed by law.
+If we cancel an unfulfilled item or service, we will refund the amount paid for that portion, including applicable taxes and shipping charges attributable to it, without a processing or restocking deduction. Completed service work is handled under the Refund and Return Policy. We will provide any larger refund required by law.
 
 ## 5. Payment
 
-You agree to pay all amounts due, including taxes, duties, shipping, fees, and other charges shown at checkout or in a quote. You authorize us and our payment processors to charge your payment method.
+You agree to pay all amounts due, including taxes, shipping, fees, and other charges shown at checkout or in an accepted quote. You authorize us and our payment processors to charge your payment method for those amounts.
 
-If a payment is reversed, disputed, charged back, or fraudulent, we may suspend service, cancel pending orders, keep records, and use all available remedies.
+If payment fails, is reversed, or appears fraudulent, we may investigate and suspend unpaid work or fulfillment as reasonably necessary. A good-faith payment dispute is not itself a breach of these Terms. Nothing here limits your rights through a payment provider or under applicable law, and we will not collect twice for the same amount.
 
 ## 6. Shipping and Delivery
 
-Shipping dates are estimates, not guarantees. To the extent allowed by law, risk of loss passes when we hand the package to the carrier, unless a different rule applies.
+Shipment and delivery estimates are different: shipment is when an item leaves us, and delivery is when it reaches you. Estimates do not remove our obligations under applicable shipping laws. If we cannot ship within the stated period, or the period required by law when none is stated, we will provide the required delay notice, cancellation option, and refund. We will obtain consent to a delay when required.
 
-You are responsible for a correct shipping address and for any loss, delay, or extra charge caused by a bad address. If a package comes back because of an address issue, refusal, or failure to claim, you pay reshipment costs and any restocking fee.
+Where the law allows, you take responsibility for loss in transit once we hand the package to the carrier. Any delivery protections required by law still apply. If a package is lost or damaged, please contact us so we can investigate with the carrier and provide any remedy we owe.
+
+You are responsible for providing a correct shipping address. If a package is returned because of an incorrect address you supplied, refusal, or failure to claim it, we will contact you about reshipment or cancellation. You may be responsible for reasonable additional shipping costs and any restocking fee permitted by the Refund and Return Policy and applicable law. Contact us promptly about address corrections; changes may not be possible after shipment.
 
 ## 7. Custom Work
 
-Custom hardware, firmware, software, configuration, and code work are based on your specs, written requirements, or approved milestones. You are responsible for giving accurate information, reviewing work quickly, and making sure your intended use is lawful.
+Custom work starts with the specifications, written requirements, or project stages we agree on. Please give us accurate information, review work promptly, and make sure your intended use is lawful.
 
 Unless we agree otherwise in writing:
 
-- We do not guarantee custom work will match undocumented expectations
-- Small cosmetic differences or equal-or-better part substitutions are not defects
-- Changes after approval count as new work and may need a new quote
+- Tell us about requirements that matter to you; we cannot promise to meet expectations that are not part of the agreed scope.
+- Minor cosmetic differences are acceptable only if they do not materially change the agreed description, quality, or function.
+- Part substitutions must meet the agreed specifications; material changes require your approval.
+- Changes after approval may require a revised scope, price, and schedule, which we will agree with you before doing the additional work.
+
+Our written scope should explain what you'll receive, the project stages, what we need from you, and any included support or revisions. Cancellation and payment for completed work follow the Refund and Return Policy.
 
 ## 8. Acceptable Use
 
@@ -54,56 +69,70 @@ You may not use our website, products, or services for anything unlawful, abusiv
 
 You are responsible for how you install, configure, operate, and use the products.
 
+Do not use a product on another person without that person's informed, ongoing consent, or continue after consent is withdrawn. Do not disable safety features or use a product to coerce, threaten, or harm someone.
+
 ## 9. Safety and Compliance
 
 You are responsible for using products safely and legally, following instructions and warnings, getting any needed permissions, and meeting all applicable laws and rules. We do not provide legal, medical, veterinary, safety, or compliance advice.
 
-## 10. Intellectual Property
+## 10. Ownership and Licenses
 
-Unless we say otherwise in writing, all website content, product designs, documentation, firmware, code, branding, photographs, text, and other materials we provide remain our property or our licensors' property. You get a limited license to use deliverables for your intended lawful purpose only.
+We and our licensors retain ownership of our respective website content, designs, documentation, firmware, code, branding, photographs, and other materials, except for ownership expressly transferred in a written agreement. You retain ownership of your materials. Unless a separate license or written agreement applies, you receive a non-exclusive license to use purchased deliverables for the agreed lawful purpose.
 
 You may not remove notices or copy, sell, redistribute, or sublicense our materials except as allowed in writing or by law.
 
-## 11. Customer Materials
+Open-source and other third-party components remain subject to their own licenses. Those licenses control for the components they cover, including any rights to copy, modify, redistribute, or obtain source code. These Terms do not restrict those rights or claim ownership of third-party projects.
 
-If you send us files, code, schematics, specifications, artwork, logos, or other materials, you represent that you own them or have permission to use them, and that they do not infringe or contain malware, illegal content, or harmful instructions.
+## 11. Materials You Send Us
 
-You give us a worldwide, non-exclusive license to use those materials only as needed to provide the products and services.
+Please only send files, code, schematics, artwork, or other materials that you own or have permission to use for the project. By sending them, you confirm that they do not violate someone else's rights or contain malware, illegal content, or harmful instructions.
+
+You give us a non-exclusive license to use and reproduce those materials, and to make agreed modifications, only as needed to fulfill the engagement. Necessary contractors may use them for that purpose. This permission does not authorize public release, resale, or portfolio use without your separate permission. Personal information in those materials is handled under the Privacy Policy.
 
 ## 12. Warranties
 
-To the maximum extent allowed by law, our products and services are provided "as is" and "as available." Except for any written warranty we give for a specific item, we disclaim all express and implied warranties, including merchantability, fitness for a particular purpose, and non-infringement.
+Except for express commitments in the accepted order, product description, or a written warranty, and to the extent permitted by law, products and services are provided **"as is" and "as available," without implied warranties of merchantability, fitness for a particular purpose, or non-infringement**. We do not disclaim implied warranties where a written consumer-product warranty, service contract, or applicable law prohibits doing so.
 
-Custom work is not guaranteed to satisfy every expectation. Software, firmware, configuration, and code may have defects, need updates, or depend on third-party systems. Damage from misuse, modification, overvoltage, water, physical damage, normal wear and tear, or improper installation is not covered.
+Software, firmware, configuration, and code may require updates or depend on third-party systems; we do not promise uninterrupted or error-free operation. Unless a warranty or law provides otherwise, coverage excludes damage caused by misuse, overvoltage, liquid exposure, physical damage, normal wear, improper installation, or modifications. A modification or third-party repair does not by itself exclude coverage for an unrelated defect.
 
 ## 13. Limitation of Liability
 
 To the maximum extent allowed by law, we are not liable for indirect, incidental, special, consequential, exemplary, or punitive damages, or for lost profits, lost revenue, lost data, downtime, replacement costs, or business interruption. Our total liability for any claim related to the products, services, or these Terms will not exceed the amount you paid us for the item or service in the 12 months before the event.
 
-## 14. Indemnity
+These limitations do not reduce refunds expressly owed under these policies or exclude liability for fraud, intentional misconduct, gross negligence, or any injury, loss, or other liability that applicable law does not allow us to limit.
 
-You agree to defend, indemnify, and hold harmless **NamelessNanashi**, our owners, employees, contractors, and affiliates from claims, losses, liabilities, damages, costs, and expenses, including reasonable attorneys' fees, arising from your use or misuse of our products or services, your breach of these Terms, your violation of law or third-party rights, your customer materials, or your instructions and intended use.
+## 14. Responsibility for Third-Party Claims
 
-## 15. Suspension and Termination
+To the extent permitted by law, you are responsible for third-party claims and reasonable resulting costs, including reasonable attorneys' fees, caused by your unlawful use, material breach of these Terms, or customer materials that infringe another party's rights. This obligation does not cover losses caused by our own acts or omissions. We will promptly notify you of a claim, allow reasonable participation in its defense, and not agree to a settlement imposing an obligation on you without your consent.
 
-We may suspend or terminate access to our website, services, support, or outstanding orders if we believe you violated these Terms, created a risk, disputed payment, or if fulfilling the order would violate law or policy. Terms that should survive termination will survive.
+## 15. Pausing or Ending Work
+
+We may suspend or terminate access or work for a material breach, a credible safety or security risk, unpaid amounts, or a legal restriction. Where practical, we will explain the reason and allow an opportunity to resolve it. Cancellation does not remove refund obligations, mandatory remedies, or accrued payment obligations. Provisions concerning ownership, outstanding payments, liability, and disputes continue as needed to give them effect.
 
 ## 16. Dispute Resolution
 
-Before filing a formal claim, contact us at **Nanashi@NamelessNanashi.dev** and try to resolve the issue in good faith. To the maximum extent allowed by law, disputes will be resolved by binding individual arbitration, not as a class action, unless we both agree otherwise in writing. If arbitration is not enforceable where you live, the exclusive venue will be the state and federal courts located in Wisconsin, USA. You waive any jury trial right to the extent allowed by law.
+Please contact us at [Nanashi@NamelessNanashi.dev](mailto:Nanashi@NamelessNanashi.dev) so we can try to resolve a dispute. Contacting us is not a condition of exercising a legal right, filing a payment dispute, or seeking urgent relief, and does not extend a filing deadline.
+
+Unless we enter into a separate written arbitration agreement, disputes may be brought in a court with jurisdiction. To the extent permitted by law, the agreed venue is the state or federal courts in Wisconsin, USA. This does not prevent a consumer from using a court or forum available under mandatory local law. These Terms do not impose mandatory arbitration or a class-action or jury-trial waiver.
 
 ## 17. Governing Law
 
-These Terms are governed by the laws of the State of Wisconsin, USA, without regard to conflict-of-law rules.
+These Terms are governed by Wisconsin law, except where mandatory law provides otherwise. This choice does not deprive consumers of protections that apply where they live and cannot be waived by agreement.
 
 ## 18. Changes to These Terms
 
-We may update these Terms from time to time. The updated version is effective when posted unless we say otherwise. Your continued use of our website, products, or services means you accept the updated Terms.
+We may update these Terms and will identify the effective date of each version. The version accepted for an order governs that order unless we both agree to a change. Updates apply prospectively and do not retroactively change completed purchases or existing disputes. We will provide notice and obtain acceptance of changes to ongoing services when required by law.
+
+If a provision is unenforceable, the remaining provisions continue to apply to the extent permitted by law. A failure to enforce a provision on one occasion does not waive the right to enforce it later.
 
 ## 19. Contact
 
-Questions about these Terms can be sent to:
+Have a question about these Terms or a project? You can reach us at:
 
-**NamelessNanashi**
-**Nanashi@NamelessNanashi.dev**
-No public business address
+**NamelessNanashi**\
+PO Box 163\
+Elm Grove WI 53122-0163\
+Email: [Nanashi@NamelessNanashi.dev](mailto:Nanashi@NamelessNanashi.dev)\
+Discord: `NamelessNanashi`
+
+This is our mailing address. Contact us for return instructions before sending a product; the return destination may differ.
