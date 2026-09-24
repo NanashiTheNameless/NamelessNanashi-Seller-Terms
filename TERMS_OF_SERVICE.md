@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Effective date:** September 21, 2026
+**Effective date:** September 24, 2026
 
 Thanks for your interest in **NamelessNanashi** ("we," "us," "our"). These Terms of Service ("Terms") explain what to expect when you buy our hardware, software, custom work, or services, or use our website. By placing an order or otherwise accepting these Terms, you agree to them.
 
@@ -25,6 +25,23 @@ Nothing in these Terms takes away consumer rights or remedies that the law does 
 We may sell OpenShock-related hardware, custom hardware, assembled kits, firmware, code work, consulting, debugging, repair, and other services. We may change or discontinue future offerings. Changes do not remove our obligations for accepted orders, written warranties, or paid services.
 
 **Standard hardware** means hardware we regularly stock and do not make to order or customize for a customer. **Made-to-order hardware** is built for an order rather than supplied from our regular stock, even if it follows an existing design. **Custom hardware** is designed, built, or modified to a customer's specific requirements. Made-to-order and custom hardware are not standard hardware for return or warranty eligibility. We will identify that status in the listing or quote before payment.
+
+### Free Lifetime Best-Effort Support
+
+**Every buyer gets free, lifetime, best-effort support.** This covers all hardware, software, custom work, and services you buy from us, with no extra charge and no expiration date, for as long as NamelessNanashi operates. Support means help by email or Discord, such as answering questions, explaining setup and use, and helping troubleshoot problems with what you bought.
+
+**Free support is subject to our availability and is not guaranteed.** "Best effort" means we will make a genuine attempt to help when we are available, but we do not guarantee that support will be available at any particular time, a response time, or that every problem can be solved. Free support does not include new features, custom modifications, ongoing maintenance, future compatibility updates, repairs, replacement parts, or other new work; those need a separate agreement on scope and price before they begin.
+
+**We may decline, limit, or end free support at our discretion.** For example, we may do so if someone:
+
+- Is persistently uncooperative or makes unreasonable demands.
+- Repeatedly ignores our instructions or guidance.
+- Behaves unacceptably toward us or anyone else, including through harassment, abuse, threats, or discrimination.
+- Could harm NamelessNanashi's reputation through association, such as by misrepresenting their relationship with us or connecting us to unlawful, hateful, or harmful activity.
+
+Posting an honest review, complaint, or feedback about us is never a reason to refuse support. This does not protect content that is knowingly false, defamatory, harassing, or reveals someone's private information. Refusing free support does not by itself affect orders, warranty claims, refunds, or other remedies owed under these Terms, the Refund and Return Policy, a written agreement, or applicable law.
+
+Support is not a warranty. It does not extend the Limited Hardware Warranty period, change return eligibility, or reduce any warranty, remedy, or legal right you have.
 
 ## 3. Compatibility
 
@@ -83,9 +100,9 @@ Before paid work begins, the quote or written scope will identify:
 - The work, files, code, hardware, or consulting session you are buying, including whether source files are included.
 - The price, payment stages, expected schedule, and information or access we need from you.
 - How we will check that the work meets the agreed requirements and how you will review and approve it.
-- Any included revision rounds, bug-fix period, updates, or support. If included, the scope will state their limits and when they end.
+- Any included revision rounds, bug-fix period, updates, or support beyond the free best-effort support described in Section 2. If included, the scope will state their limits and when they end.
 
-**Coding and consulting are one-off engagements unless we agree otherwise in writing.** By default, the price covers the agreed deliverable or session, not additional revision rounds, ongoing maintenance, future compatibility updates, or continuing support. Any extra work needs a separate agreement on scope and price before it begins.
+**Coding and consulting are one-off engagements unless we agree otherwise in writing.** By default, the price covers the agreed deliverable or session, not additional revision rounds, ongoing maintenance, future compatibility updates, or support beyond the free best-effort support described in Section 2. Any extra work needs a separate agreement on scope and price before it begins.
 
 For a deliverable, we'll tell you when it is ready for review. Please either confirm acceptance in writing or explain how it falls short of the agreed requirements. We'll address those differences under the agreement and applicable law; a request for new features or changed preferences is additional work. For consulting sold as a session or block of time, completion means providing that session or time and any expressly agreed follow-up deliverables. Your silence alone does not count as approval of incomplete or nonconforming work.
 
@@ -104,6 +121,16 @@ You may not use our website, products, or services for anything unlawful, abusiv
 You are responsible for how you install, configure, operate, and use the products.
 
 Do not use a product on another person without that person's informed, ongoing consent, or continue after consent is withdrawn. Do not disable safety features or use a product to coerce, threaten, or harm someone.
+
+### Conduct Toward Us and Others
+
+**Harassment, abuse, threats, discrimination, and illegal content are not permitted** in any communication or dealing with us, or when directed at anyone else in connection with our products, services, or support. If you engage in any of these, then, to the extent permitted by law:
+
+- **Your Limited Hardware Warranty is void**, and we may deny warranty claims, including claims already open.
+- We may refuse, limit, or end free support.
+- We may stop responding to, decline, or block your communications with us by email, Discord, or any other channel.
+
+This does not remove implied warranties, refunds or other remedies required by law, or our obligations for accepted orders that we have not yet fulfilled. If we stop communicating with you, you may still send legal notices and claims for legally required remedies in writing to our legal correspondence address in Section 19.
 
 ## 9. Safety and Compliance
 
@@ -125,7 +152,7 @@ You give us a non-exclusive license to use and reproduce those materials, and to
 
 ## 12. Warranties
 
-Standard hardware, as defined in Section 2, has the **Limited Hardware Warranty** in Section 5 of the [Refund and Return Policy](REFUND_AND_RETURN_POLICY.md#5-defective-damaged-or-incorrect-items). The default coverage period is **14 calendar days after delivery**, unless a different period is stated in writing for your order before purchase. Report the fault within that period; a timely claim does not expire while we assess or resolve it. The warranty covers faults caused by our assembly, workmanship, configuration, or another error on our part. Replacements may be new or tested refurbished devices that meet the agreed specifications. You pay required return and replacement shipping unless a separate written warranty or applicable law requires otherwise. Made-to-order and custom hardware are excluded unless expressly covered in writing.
+Standard hardware, as defined in Section 2, has the **Limited Hardware Warranty** in Section 5 of the [Refund and Return Policy](REFUND_AND_RETURN_POLICY.md#5-defective-damaged-or-incorrect-items). The default coverage period is **14 calendar days after delivery**, unless a different period is stated in writing for your order before purchase. Report the fault within that period; a timely claim does not expire while we assess or resolve it. The warranty covers faults caused by our assembly, workmanship, configuration, or another error on our part. Replacements may be new or tested refurbished devices that meet the agreed specifications. You pay required return and replacement shipping unless a separate written warranty or applicable law requires otherwise. Made-to-order and custom hardware are excluded unless expressly covered in writing. Harassment, abuse, threats, discrimination, or illegal content voids the warranty as described in Section 8.
 
 **The "as is" disclaimer below does not apply to hardware covered by our written warranty. We do not disclaim or shorten implied warranties for that hardware.** The 14-day period limits our voluntary written coverage, not any longer rights provided by law.
 
@@ -161,7 +188,7 @@ These Terms are governed by Wisconsin law, except where mandatory law provides o
 
 ## 18. Changes to These Terms
 
-We may update these Terms and will identify the effective date of each version. The version accepted for an order governs that order unless we both agree to a change. Updates apply prospectively and do not retroactively change completed purchases or existing disputes. We will provide notice and obtain acceptance of changes to ongoing services when required by law.
+We may update these Terms and will identify the effective date of each version. **Each order is governed by the version in effect when you placed it, unless you choose to use the latest version instead.** To choose the latest version, tell us in writing by email or Discord and identify the order. The version in effect at that time then applies to that order as a whole, replacing the earlier version. We will not move an order to a later version without your choice or agreement, and updates do not otherwise change completed purchases or existing disputes. We will provide notice and obtain acceptance of changes to ongoing services when required by law.
 
 If a provision is unenforceable, the remaining provisions continue to apply to the extent permitted by law. A failure to enforce a provision on one occasion does not waive the right to enforce it later.
 

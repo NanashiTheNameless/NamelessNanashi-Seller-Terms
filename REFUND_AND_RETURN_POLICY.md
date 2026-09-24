@@ -1,6 +1,6 @@
 # Refund and Return Policy
 
-**Effective date:** September 21, 2026
+**Effective date:** September 24, 2026
 
 Need help with an order or a change of plans? This policy explains returns, exchanges for faulty devices, cancellations, and refunds for purchases from **NamelessNanashi**. Physical orders are US-only; coding, consulting, and other remotely delivered services are available internationally, where legally permitted. Purchases and service engagements are limited to customers who are at least 18 and meet the age requirement in our [Terms of Service](TERMS_OF_SERVICE.md).
 
@@ -78,6 +78,8 @@ For other confirmed problems we're responsible for, we'll provide the remedy req
 
 This exchange promise does not cover faults caused by customer or third-party misuse, improper installation or power, accidents, liquid exposure, normal wear, modifications, or repairs, unless a warranty or law provides otherwise. A modification or third-party repair does not automatically exclude coverage for an unrelated fault caused by us.
 
+**Harassment, abuse, threats, discrimination, or illegal content voids this warranty**, as described in Section 8 of our [Terms of Service](TERMS_OF_SERVICE.md#conduct-toward-us-and-others). We may also refuse or block further communication. Implied warranties and remedies required by law are not affected.
+
 To request warranty service, email **NamelessNanashi** at **Nanashi@NamelessNanashi.dev** or contact **NamelessNanashi** on Discord (account ID: `221701506561212416`). Describe the fault and identify your order and device. Wait for our return instructions or explicit written approval of the optional destruction process below before taking further action. Written approval has the meaning given in Section 4 of our [Terms of Service](TERMS_OF_SERVICE.md#4-orders-pricing-and-acceptance). Our legal correspondence address is listed in Section 12; routine warranty claims should use email or Discord.
 
 We do not disclaim or shorten implied warranties for devices covered by this written warranty. General disclaimers and liability limits in our Terms do not reduce the exchange, repair, or refund remedies promised here. To the extent the Terms exclude or limit incidental or consequential damages, some states do not allow that exclusion or limitation, so it may not apply to you. This warranty gives you specific legal rights, and you may also have other rights which vary from state to state.
@@ -144,11 +146,13 @@ We may provide relevant order records, delivery evidence, communications, or pro
 
 ## 11. Warranty Claims
 
-Our Limited Hardware Warranty is set out in Section 5, including its default 14-day coverage period, exclusions, shipping costs, and claim process. Any different coverage period must be stated in writing for your order before purchase. If a product includes additional written warranty coverage, follow its claim instructions as well. Nothing in this policy limits any warranty or remedy imposed by law, and a new policy version does not shorten coverage already promised for an earlier order.
+Our Limited Hardware Warranty is set out in Section 5, including its default 14-day coverage period, exclusions, shipping costs, and claim process. Any different coverage period must be stated in writing for your order before purchase. If a product includes additional written warranty coverage, follow its claim instructions as well. Nothing in this policy limits any warranty or remedy imposed by law, and a new policy version does not shorten coverage already promised for an earlier order unless you choose to use that version for the order.
 
 ## 12. How to Request Help
 
 Email [Nanashi@NamelessNanashi.dev](mailto:Nanashi@NamelessNanashi.dev) or contact `NamelessNanashi` on Discord (account ID: `221701506561212416`) with your name, order number, affected items or service, and a description of the request. If you're asking for an exchange, tell us what's wrong with the device. Include photos or video for damage or defects if reasonably available and safe to obtain. Do not include full payment-card details or passwords.
+
+General questions and troubleshooting are covered by our free lifetime best-effort support, which is subject to our availability and not guaranteed, described in Section 2 of our [Terms of Service](TERMS_OF_SERVICE.md#free-lifetime-best-effort-support). That support does not extend the warranty period or return windows in this policy.
 
 Email: [Nanashi@NamelessNanashi.dev](mailto:Nanashi@NamelessNanashi.dev)\
 Discord: `NamelessNanashi` (account ID: `221701506561212416`)
@@ -165,4 +169,4 @@ Elm Grove WI 53122-0163
 
 ## 13. Policy Changes
 
-The policy accepted when you place an order applies to that order unless we both agree otherwise. Updates will identify a new effective date and apply to future orders; they do not retroactively remove existing rights.
+Updates will identify a new effective date. **Each order is governed by the version in effect when you placed it, unless you choose to use the latest version instead.** To choose the latest version, tell us in writing by email or Discord and identify the order. The version in effect at that time then applies to that order as a whole, replacing the earlier version. We will not move an order to a later version without your choice or agreement, and updates do not otherwise remove existing rights.

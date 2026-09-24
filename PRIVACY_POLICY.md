@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective date:** September 21, 2026
+**Effective date:** September 24, 2026
 
 This Privacy Policy explains what **NamelessNanashi** ("we," "us," "our") does with the information you share when buying from us, getting support, or contacting us. Physical orders are US-only; coding, consulting, and other remotely delivered services are available internationally, where legally permitted. All customers must be at least 18 and meet the age requirement in our [Terms of Service](TERMS_OF_SERVICE.md).
 
@@ -98,7 +98,7 @@ Links to third-party services do not make their privacy practices part of ours. 
 
 ## 11. Changes to This Policy
 
-We may update this Privacy Policy and will identify the effective date of each version. We will provide any notice or obtain any consent required by law before making a material change to how we use previously collected information. An update does not authorize the sale of user data collected under our no-sale commitment.
+We may update this Privacy Policy and will identify the effective date of each version. **Information connected to an order is governed by the version in effect when you placed that order, unless you choose to use the latest version instead.** To choose the latest version, tell us in writing by email or Discord and identify the order. The version in effect at that time then applies to that order's information as a whole, replacing the earlier version. We will provide any notice or obtain any consent required by law before making a material change to how we use previously collected information. An update does not authorize the sale of user data collected under our no-sale commitment.
 
 ## 12. Contact Us
 
