@@ -1,6 +1,6 @@
 # Refund and Return Policy
 
-**Effective date:** September 24, 2026
+**Effective date:** October 3, 2026
 
 Need help with an order or a change of plans? This policy explains returns, exchanges for faulty devices, cancellations, and refunds for purchases from **NamelessNanashi**. Physical orders are US-only; coding, consulting, and other remotely delivered services are available internationally, where legally permitted. Purchases and service engagements are limited to customers who are at least 18 and meet the age requirement in our [Terms of Service](TERMS_OF_SERVICE.md).
 
@@ -64,7 +64,7 @@ We may ask you to try reasonable, safe troubleshooting steps or send the item fo
 
 NamelessNanashi provides this limited warranty for standard hardware purchased from us, as defined in Section 1. **The default coverage period is 14 calendar days after delivery**, unless a different period is stated in writing for your order before purchase. Contact us within that period with your order number or other reasonable proof of purchase and a description of the fault. You do not need to complete troubleshooting or ship the device within those 14 days if you reported the fault on time. A timely claim stays open until it is resolved; our assessment or shipping time does not cancel it.
 
-A replacement carries the remaining coverage period of the original device unless we agree otherwise in writing or the law requires longer coverage. Replacing a device does not close a timely claim if the replacement fails to resolve the reported problem. Any longer rights required by law still apply.
+A replacement device receives coverage for the longer of (a) the remaining Limited Hardware Warranty period on the original device or (b) 14 calendar days after delivery of the replacement, unless a longer period is stated in writing or required by law. Replacing a device does not close a timely claim if the replacement fails to resolve the reported problem. Any longer rights required by law still apply.
 
 **If a standard, non-custom device is faulty because of something we did wrong, we'll offer a replacement device at no charge once we confirm the cause. You pay return and replacement shipping, unless a written warranty or applicable law requires us to cover those costs.** This includes faults caused by our assembly, workmanship, or configuration. It applies even if you've opened or used the eligible device; the unused-item and change-of-mind return limits do not apply to these exchanges.
 
@@ -77,8 +77,6 @@ You are responsible for shipping the faulty device to us and for shipping the re
 For other confirmed problems we're responsible for, we'll provide the remedy required by your warranty, agreement, or the law. Where we can choose how to resolve the problem, we may offer a repair, replacement parts, or a refund. Store credit is optional and will not replace a refund legally owed without your agreement.
 
 This exchange promise does not cover faults caused by customer or third-party misuse, improper installation or power, accidents, liquid exposure, normal wear, modifications, or repairs, unless a warranty or law provides otherwise. A modification or third-party repair does not automatically exclude coverage for an unrelated fault caused by us.
-
-**Harassment, abuse, threats, discrimination, or illegal content voids this warranty**, as described in Section 8 of our [Terms of Service](TERMS_OF_SERVICE.md#conduct-toward-us-and-others). We may also refuse or block further communication. Implied warranties and remedies required by law are not affected.
 
 To request warranty service, email **NamelessNanashi** at **Nanashi@NamelessNanashi.dev** or contact **NamelessNanashi** on Discord (account ID: `221701506561212416`). Describe the fault and identify your order and device. Wait for our return instructions or explicit written approval of the optional destruction process below before taking further action. Written approval has the meaning given in Section 4 of our [Terms of Service](TERMS_OF_SERVICE.md#4-orders-pricing-and-acceptance). Our legal correspondence address is listed in Section 12; routine warranty claims should use email or Discord.
 
@@ -157,7 +155,7 @@ General questions and troubleshooting are covered by our free lifetime best-effo
 Email: [Nanashi@NamelessNanashi.dev](mailto:Nanashi@NamelessNanashi.dev)\
 Discord: `NamelessNanashi` (account ID: `221701506561212416`)
 
-**We do not accept routine customer communication by postal mail.** Please use email or Discord for support, warranty claims, returns, and exchanges. This does not restrict legally required notices or communication methods.
+**We do not accept routine customer communication by postal mail.** Please use email or Discord for support, warranty claims, returns, and exchanges. If your communication access has been restricted under Section 8 of our Terms of Service due to harassment, abuse, threats, discrimination, or illegal content, you may submit a warranty claim or other necessary request by postal mail to the legal correspondence address below. This does not restrict legally required notices or communication methods.
 
 Legal correspondence address:
 

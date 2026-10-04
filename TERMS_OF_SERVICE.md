@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Effective date:** September 24, 2026
+**Effective date:** October 3, 2026
 
 Thanks for your interest in **NamelessNanashi** ("we," "us," "our"). These Terms of Service ("Terms") explain what to expect when you buy our hardware, software, custom work, or services, or use our website. By placing an order or otherwise accepting these Terms, you agree to them.
 
@@ -124,13 +124,15 @@ Do not use a product on another person without that person's informed, ongoing c
 
 ### Conduct Toward Us and Others
 
-**Harassment, abuse, threats, discrimination, and illegal content are not permitted** in any communication or dealing with us, or when directed at anyone else in connection with our products, services, or support. If you engage in any of these, then, to the extent permitted by law:
+**Harassment, abuse, threats, discrimination, and illegal content are not permitted** in any context. We may block or restrict anyone who engages in such conduct at any time.
 
-- **Your Limited Hardware Warranty is void**, and we may deny warranty claims, including claims already open.
+If you engage in any of these:
+
 - We may refuse, limit, or end free support.
 - We may stop responding to, decline, or block your communications with us by email, Discord, or any other channel.
+- We may restrict future business or discretionary services and take steps reasonably necessary to prevent abuse.
 
-This does not remove implied warranties, refunds or other remedies required by law, or our obligations for accepted orders that we have not yet fulfilled. If we stop communicating with you, you may still send legal notices and claims for legally required remedies in writing to our legal correspondence address in Section 19.
+This does not void an otherwise valid Limited Hardware Warranty or remove refunds, warranty remedies, accepted-order obligations, or other remedies otherwise owed under these Terms, the Refund and Return Policy, a written agreement, or applicable law. If normal communication is restricted due to your misconduct, you may still submit warranty claims, legally required notices, and requests for remedies by postal mail to our legal correspondence address in Section 19.
 
 ## 9. Safety and Compliance
 
@@ -152,7 +154,11 @@ You give us a non-exclusive license to use and reproduce those materials, and to
 
 ## 12. Warranties
 
-Standard hardware, as defined in Section 2, has the **Limited Hardware Warranty** in Section 5 of the [Refund and Return Policy](REFUND_AND_RETURN_POLICY.md#5-defective-damaged-or-incorrect-items). The default coverage period is **14 calendar days after delivery**, unless a different period is stated in writing for your order before purchase. Report the fault within that period; a timely claim does not expire while we assess or resolve it. The warranty covers faults caused by our assembly, workmanship, configuration, or another error on our part. Replacements may be new or tested refurbished devices that meet the agreed specifications. You pay required return and replacement shipping unless a separate written warranty or applicable law requires otherwise. Made-to-order and custom hardware are excluded unless expressly covered in writing. Harassment, abuse, threats, discrimination, or illegal content voids the warranty as described in Section 8.
+Standard hardware, as defined in Section 2, has the **Limited Hardware Warranty** in Section 5 of the [Refund and Return Policy](REFUND_AND_RETURN_POLICY.md#5-defective-damaged-or-incorrect-items). The default coverage period is **14 calendar days after delivery**, unless a different period is stated in writing for your order before purchase. Report the fault within that period; a timely claim does not expire while we assess or resolve it. The warranty covers faults caused by our assembly, workmanship, configuration, or another error on our part. Replacements may be new or tested refurbished devices that meet the agreed specifications.
+
+A replacement device receives coverage for the longer of (a) the remaining Limited Hardware Warranty period on the original device or (b) 14 calendar days after delivery of the replacement, unless a longer period is stated in writing or required by law. Replacing a device does not close a timely claim if the replacement fails to resolve the reported problem.
+
+You pay required return and replacement shipping unless a separate written warranty or applicable law requires otherwise. Made-to-order and custom hardware are excluded unless expressly covered in writing.
 
 **The "as is" disclaimer below does not apply to hardware covered by our written warranty. We do not disclaim or shorten implied warranties for that hardware.** The 14-day period limits our voluntary written coverage, not any longer rights provided by law.
 
@@ -162,7 +168,9 @@ Software, firmware, configuration, and code may require updates or depend on thi
 
 ## 13. Limitation of Liability
 
-To the maximum extent allowed by law, we are not liable for indirect, incidental, special, consequential, exemplary, or punitive damages, or for lost profits, lost revenue, lost data, downtime, replacement costs, or business interruption. Our total liability for any claim related to the products, services, or these Terms will not exceed the amount you paid us for the item or service in the 12 months before the event.
+To the maximum extent allowed by law, we are not liable for indirect, incidental, special, consequential, exemplary, or punitive damages, or for lost profits, lost revenue, lost data, downtime, replacement costs, or business interruption.
+
+**To the maximum extent permitted by law, our total liability for any claim related to a product, service, or these Terms will not exceed the greater of (a) the amount you paid us for the specific product or service giving rise to the claim or (b) the total amount you paid us during the 12 months before the event giving rise to the claim.**
 
 These limitations do not reduce refunds expressly owed under these policies or exclude liability for fraud, intentional misconduct, gross negligence, or any injury, loss, or other liability that applicable law does not allow us to limit.
 

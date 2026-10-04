@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective date:** September 24, 2026
+**Effective date:** October 3, 2026
 
 This Privacy Policy explains what **NamelessNanashi** ("we," "us," "our") does with the information you share when buying from us, getting support, or contacting us. Physical orders are US-only; coding, consulting, and other remotely delivered services are available internationally, where legally permitted. All customers must be at least 18 and meet the age requirement in our [Terms of Service](TERMS_OF_SERVICE.md).
 
@@ -64,11 +64,15 @@ Browser settings may let you block or remove cookies, but doing so can affect pa
 
 ## 6. How Long We Keep Information
 
-**We retain customer information indefinitely through Stripe, Discord, and email.** We do not have a routine deletion schedule for order records, transaction records, messages, or project materials.
+**We retain customer communications and voluntarily provided materials indefinitely through Stripe, Discord, email, and other channels where you submit information.** This includes emails, Discord messages, support conversations, code, files, schematics, specifications, photographs, videos, attachments, project materials, and similar materials you supply for an order, project, warranty claim, or support request.
 
-The law and our providers' storage and deletion controls still apply. We cannot guarantee that a provider will keep every record forever. If the law requires us to delete information or keep it for a shorter period, we will do so.
+We also retain ordinary business records—including orders, transactions, payment and refund records, accounting and tax records, warranty records, fraud and security records, and dispute records—for as long as reasonably necessary for business, legal, accounting, tax, fraud prevention, security, warranty administration, recordkeeping, or dispute-resolution purposes.
 
-You can contact us to ask for deletion. We'll review your request, explain what we can delete and what we need to keep, and carry out any deletion required by law. For example, some tax, payment, or dispute records may need to be kept. Deleting our copy does not necessarily delete records a provider keeps independently under its own obligations.
+The law and our providers' storage and deletion controls still apply. Providers such as Stripe, Discord, and email providers may delete information according to their own systems and policies. We cannot guarantee that every record will be retained forever, and some information may remain in backups, logs, archives, or third-party provider systems even after we delete copies under our control.
+
+You can contact us to ask for deletion of information you previously provided. We'll delete information we are reasonably able to delete from systems under our control when retention is not still reasonably necessary.
+
+Deletion may be limited when information must or reasonably should be retained for reasons such as legal obligations, tax or accounting records, transaction records, active or possible disputes, fraud prevention, security, warranty administration, legal claims, or other legitimate recordkeeping needs. Full deletion may not always be technically possible because information may remain in backups, logs, archives, third-party provider systems (including those of Stripe, Discord, email providers, shipping providers, and other service providers), or records independently controlled by those providers.
 
 ## 7. Security
 
@@ -76,9 +80,11 @@ We use reasonable safeguards for the accounts and information under our control 
 
 ## 8. Your Choices and Privacy Requests
 
-Email [Nanashi@NamelessNanashi.dev](mailto:Nanashi@NamelessNanashi.dev) or contact `NamelessNanashi` on Discord (account ID: `221701506561212416`) to request access to, correction of, or deletion of your personal information. Depending on where you live and whether a law applies to our business, you may also have rights to obtain a copy, restrict certain uses, appeal a request decision, or act through an authorized agent.
+Deletion requests are handled as described in Section 6.
 
-We may request information reasonably needed to verify your identity or an agent's authority. Do not send identity documents unless we request them through an appropriate process. We will respond within any deadline required by applicable law and explain if we cannot fulfill all or part of a request. We will not unlawfully discriminate against you for exercising a privacy right.
+Email [Nanashi@NamelessNanashi.dev](mailto:Nanashi@NamelessNanashi.dev) or contact `NamelessNanashi` on Discord (account ID: `221701506561212416`) to request access to, correction of, or deletion of your personal information or previously provided materials—including communications, messages, files, attachments, code, project materials, photos, and videos.
+
+We may request information reasonably needed to verify your identity or an agent's authority. Do not send identity documents unless we request them through an appropriate process. We will respond within any deadline required by applicable law and explain if we cannot fulfill all or part of a request.
 
 You do not need to opt out of data sales or advertising: we do not sell your information or share it for those purposes in the first place.
 
@@ -108,6 +114,8 @@ Email: [Nanashi@NamelessNanashi.dev](mailto:Nanashi@NamelessNanashi.dev)\
 Discord: `NamelessNanashi` (account ID: `221701506561212416`)
 
 We do not accept routine customer communication by postal mail. This does not restrict legally required notices or communication methods.
+
+**If your communication access has been restricted due to harassment, abuse, threats, discrimination, or illegal content**, you may submit warranty claims, privacy requests, and other legally required notices by postal mail to the address below.
 
 Legal correspondence address:
 
