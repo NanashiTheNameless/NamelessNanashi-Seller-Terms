@@ -26,10 +26,10 @@ You must be **18 or older** to buy from us, and meet any higher age-of-majority 
 
 - **Your data is never for sale:** We never sell user data for any reason, including in a sale of the business.
 - **No advertising or marketing:** No marketing emails, ad targeting, or sharing your data for marketing. We may still contact you about your order, support request, or product safety.
-- **Where records live:** Customer information is stored through Stripe, Discord, and email. Those providers also have their own privacy policies.
-- **How long we keep it:** Communications, files, attachments, and project materials you supply may be retained indefinitely, along with business records that reasonably need to be kept for legal, accounting, fraud prevention, security, warranty, or dispute-resolution purposes. Providers like Stripe, Discord, and email providers have their own retention systems.
-- **Why we use or share it:** To take payment, complete your order, provide support, keep business records, and meet legal obligations. Sharing is limited to what is needed for those purposes.
-- **You can ask about your data:** Email us or message us on Discord to request access, a correction, or deletion of information you previously provided. We will delete what we are reasonably able to delete when retention is not still necessary, subject to legal, transaction, warranty, security, dispute, provider, and recordkeeping limitations. Full deletion may not always be technically possible.
+- **Where records live:** Stripe, Discord, email, and our US-based order server. Stripe handles card details; our server stores none.
+- **Store and shipping:** We use functional checkout storage, Cloudflare security and analytics, and Pirate Ship for postage. Sharing is limited to order, support, business, security, and legal needs.
+- **Retention:** Communications and submitted materials are kept indefinitely, subject to law and provider controls. Business records are kept as long as reasonably needed.
+- **Your choices:** Email or Discord us for access, corrections, or deletion. Legal, business, provider, and technical limits may prevent full deletion.
 
 [Read the Privacy Policy](PRIVACY_POLICY.md)
 
