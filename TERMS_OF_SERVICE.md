@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Effective date:** October 3, 2026
+**Effective date:** October 24, 2026
 
 Thanks for your interest in **NamelessNanashi** ("we," "us," "our"). These Terms of Service ("Terms") explain what to expect when you buy our hardware, software, custom work, or services, or use our website. By placing an order or otherwise accepting these Terms, you agree to them.
 
@@ -55,9 +55,22 @@ For these policies, written approval from us means an explicit approval in an em
 
 For Discord messages, verify the account ID is **221701506561212416**. A matching username or display name alone is not enough; messages from a different account ID are not approval from us.
 
-We may refuse, cancel, or limit orders for reasons such as suspected fraud, stock limits, pricing errors, or legal restrictions, subject to applicable law. If an accepted order requires a price increase or material change, we will ask you to agree before proceeding; you may decline and cancel the affected portion.
+**We may refuse, cancel, or limit any order, in whole or in part, for any reason or no reason, including after we accept it**, subject to applicable law. Examples include suspected fraud, stock limits, pricing errors, or legal restrictions. If an accepted order requires a price increase or material change, we will ask you to agree before proceeding; you may decline and cancel the affected portion.
 
-If we cancel an unfulfilled item or service, we will refund the amount paid for that item or service, including applicable taxes, without a processing or restocking deduction. Shipping charges are non-refundable unless a written warranty or applicable law requires otherwise, including where the law requires a full refund for an unshipped order. Completed service work and shipping charges are handled under the Refund and Return Policy. We will provide any larger refund required by law.
+If we cancel an unfulfilled item or service, we will refund the amount paid for that item or service, including applicable taxes, without a processing or restocking deduction. **If we cancel an item before it ships, the refund is a full refund, including its shipping charges.** Completed service work and shipping charges for items already shipped are handled under the Refund and Return Policy. We will provide any larger refund required by law.
+
+### Promotion Codes
+
+Promotion codes are optional and issued only by us. A code may give a percentage or fixed discount, a free item, free shipping, waived handling, or access to unlisted items. A code may have an expiration date, a total usage limit, a per-person usage limit, or a purchase requirement, and may or may not combine with other codes. We may change or end a code's availability for future checkouts.
+
+**Promotion codes have no cash value.** A discount can reduce an order to $0 but not below it. Unused value is discarded and never becomes cash, credit, a balance, or carry-over. A code is used only when a purchase succeeds; an abandoned or expired checkout returns the use. Refunds do not restore a used code.
+
+**Per-person limits apply per individual and per household or shipping address.** We do not use customer accounts, so we check these limits by:
+
+- **Email:** for a per-person code, the store asks for your email on our site before checkout. It is passed to Stripe and cannot be changed in Stripe's form. If that email has already used the code the maximum number of times, including checkouts still in progress, checkout is refused before payment.
+- **Shipping address:** after payment, we compare the shipping address with earlier uses of the same code. An order that goes over the limit, such as one using a different email at the same address, is held for manual review.
+
+Do not try to get around a code's limits, such as by using multiple emails, guessing codes, or sharing a code that says it is personal. Repeated invalid code attempts are rate limited. We may refuse or cancel an order that goes over a code's limits or breaks these rules, as described above, and refund the amount actually paid, or honor it at our discretion.
 
 ### How We Count Deadlines
 

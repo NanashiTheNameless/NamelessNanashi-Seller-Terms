@@ -1,6 +1,6 @@
 # Refund and Return Policy
 
-**Effective date:** October 3, 2026
+**Effective date:** October 24, 2026
 
 Need help with an order or a change of plans? This policy explains returns, exchanges for faulty devices, cancellations, and refunds for purchases from **NamelessNanashi**. Physical orders are US-only; coding, consulting, and other remotely delivered services are available internationally, where legally permitted. Purchases and service engagements are limited to customers who are at least 18 and meet the age requirement in our [Terms of Service](TERMS_OF_SERVICE.md).
 
@@ -50,7 +50,9 @@ Customer-caused delays are handled under Section 7 of our [Terms of Service](TER
 
 For international services or digital work, local law may give you a cooling-off period or require a separate request or consent before work starts or digital content is supplied during that period. Where those rules apply, we'll provide the required information and obtain the required request or consent. Accepting this policy alone does not waive those rights. Any cancellation charge must follow those rules.
 
-If we cancel an unfulfilled item or service, we will refund the amount paid for that item or service, including applicable taxes, without processing or restocking deductions. Shipping charges are handled under Section 8. If a shipping delay gives you a right to cancel under applicable law, we will provide the required notice and full refund for the canceled portion, including any shipping charges required by law, within the required period.
+We may cancel any order for any reason or no reason, as described in Section 4 of our [Terms of Service](TERMS_OF_SERVICE.md#4-orders-pricing-and-acceptance). If we cancel an unfulfilled item or service, we will refund the amount paid for that item or service, including applicable taxes, without processing or restocking deductions. **If we cancel an item before it ships, the refund is a full refund, including its shipping charges.** If a shipping delay gives you a right to cancel under applicable law, we will provide the required notice and full refund for the canceled portion, including any shipping charges required by law, within the required period.
+
+**Promotion codes have no cash value.** If an order is held for exceeding a promotion code's limits under our [Terms of Service](TERMS_OF_SERVICE.md#promotion-codes), we may cancel it and refund the amount actually paid. A refund never exceeds the amount actually paid, so a fully free order has nothing to refund. Refunds do not restore a used promotion code.
 
 ## 5. Defective, Damaged, or Incorrect Items
 
@@ -124,7 +126,7 @@ You also pay return shipping when returning an item for a refund, including when
 
 ## 8. Shipping Charges Are Non-Refundable
 
-**We do not refund original, return, or replacement shipping charges**, including for returns or exchanges involving a fault caused by us, unless a written warranty or applicable law requires otherwise. An approved refund normally covers the item and applicable taxes, less any permitted deductions, without shipping charges.
+**We do not refund original, return, or replacement shipping charges**, including for returns or exchanges involving a fault caused by us, unless we cancel an item before it ships (Section 4) or a written warranty or applicable law requires otherwise. An approved refund normally covers the item and applicable taxes, less any permitted deductions, without shipping charges.
 
 This does not allow us to withhold shipping charges that must be included in a legally required refund, including a required full refund for an unshipped order. Cancellation of unfulfilled orders is governed by Section 4.
 
