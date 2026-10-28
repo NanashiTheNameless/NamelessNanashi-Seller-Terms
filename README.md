@@ -2,7 +2,7 @@
 
 Welcome! Here's a quick guide to buying from **NamelessNanashi**, how we handle your information, and what to do if you need help with an order.
 
-You must be **18 or older** to buy from us, and meet any higher age-of-majority requirement where you live. **Physical orders are US-only. Coding, consulting, and other remotely delivered services are available internationally**, where legally permitted.
+You must be **18 or older** to buy from us, and meet any higher age-of-majority requirement where you live. **Physical orders are US-only by default; international shipping is by written agreement only. Coding, consulting, and other remotely delivered services are available internationally**, where legally permitted.
 
 **Each order follows the policy versions in effect when you placed it, or the latest versions if you choose them for that order.** These TL;DRs are a starting point. The linked policies and any written agreement we both accept explain the full terms; your rights under applicable law still apply.
 
@@ -52,6 +52,7 @@ Deadlines end at **11:59 p.m. America/Chicago time**. The day after delivery is 
 - **Promotion codes:** Codes have no cash value. Refunds never exceed what you actually paid, a free order has nothing to refund, and refunds don't restore a used code.
 - **Refund timing:** We aim to process approved voluntary-return refunds within **10 business days of receiving the item**, and service-cancellation refunds within **10 business days of confirming cancellation**. Shorter legal deadlines take priority; bank processing may take longer.
 - **An optional way to save exchange shipping:** You may ask for video-confirmed destruction, or we may offer it. Approval is entirely our choice. **It is for exchanges only, not refunds. Do not destroy anything without our explicit written approval and instructions for your device.** We'll reserve a replacement and confirm its model, new or refurbished condition, shipping cost, and expected dispatch date first. You may always choose the normal return process instead. If approved, follow our method safely and submit the required video. Replacement shipping remains your responsibility unless another warranty or law requires otherwise; made-to-order and custom-hardware exclusions still apply.
+- **International orders:** Accepted international physical orders are not eligible for change-of-mind returns or the no-charge replacement exchange, because international shipping costs are too high. Remedies required by law still apply.
 - **Ask before mailing a return:** We'll provide approval and the correct address. International service customers keep any cancellation or refund rights that applicable local law requires.
 
 [Read the Refund and Return Policy](REFUND_AND_RETURN_POLICY.md)

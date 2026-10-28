@@ -1,8 +1,8 @@
 # Refund and Return Policy
 
-**Effective date:** October 24, 2026
+**Effective date:** October 28, 2026
 
-Need help with an order or a change of plans? This policy explains returns, exchanges for faulty devices, cancellations, and refunds for purchases from **NamelessNanashi**. Physical orders are US-only; coding, consulting, and other remotely delivered services are available internationally, where legally permitted. Purchases and service engagements are limited to customers who are at least 18 and meet the age requirement in our [Terms of Service](TERMS_OF_SERVICE.md).
+Need help with an order or a change of plans? This policy explains returns, exchanges for faulty devices, cancellations, and refunds for purchases from **NamelessNanashi**. Physical orders ship only within the United States unless we accept an international shipping request in writing, and accepted international orders do not get free returns or exchanges (see Section 1); coding, consulting, and other remotely delivered services are available internationally, where legally permitted. Purchases and service engagements are limited to customers who are at least 18 and meet the age requirement in our [Terms of Service](TERMS_OF_SERVICE.md).
 
 Please read this policy alongside those Terms. If we both accept a written agreement for your order, it takes priority on the topics it specifically covers. A separate written warranty takes priority for its coverage and claim process.
 
@@ -17,6 +17,10 @@ Return options depend on what you bought. A return simply because you changed yo
 **Standard hardware** is hardware we regularly stock and do not make to order or customize for a customer. Hardware built for an order, even to an existing design, and hardware designed or modified to your requirements are not standard hardware. We identify made-to-order or custom status in the listing or quote before payment.
 
 Deadlines use **America/Chicago time** and end at **11:59 p.m.** Calendar days include weekends and holidays, with the day after delivery counted as day 1. Business days are Monday through Friday, excluding observed US federal holidays, counted from the first business day after the event. A request successfully sent to our listed email address or Discord account on time counts even if we reply later. The full [deadline rules](TERMS_OF_SERVICE.md#how-we-count-deadlines) explain message timestamps and return send-by dates; legally required rules take priority.
+
+### International Orders
+
+**Because international shipping costs are too high, physical orders we accept for international shipping are not eligible for change-of-mind returns under Section 2 or the no-charge replacement exchange under the Limited Hardware Warranty in Section 5, including the exchange without sending the device back, unless we expressly agree otherwise in writing for that order.** If an international order arrives faulty, damaged, or incorrect, contact us by email or Discord. We'll provide any remedy required by applicable law, and we may offer another resolution at our discretion. You pay any international shipping, duties, import taxes, and customs fees for anything sent back or re-sent, unless applicable law requires otherwise. Any rights that the law of your country gives you and that cannot be waived still apply.
 
 ## 2. Standard Hardware Returns
 
@@ -64,7 +68,7 @@ We may ask you to try reasonable, safe troubleshooting steps or send the item fo
 
 ### Limited Hardware Warranty - Exchanges When the Fault Is Ours
 
-NamelessNanashi provides this limited warranty for standard hardware purchased from us, as defined in Section 1. **The default coverage period is 14 calendar days after delivery**, unless a different period is stated in writing for your order before purchase. Contact us within that period with your order number or other reasonable proof of purchase and a description of the fault. You do not need to complete troubleshooting or ship the device within those 14 days if you reported the fault on time. A timely claim stays open until it is resolved; our assessment or shipping time does not cancel it.
+NamelessNanashi provides this limited warranty for standard hardware purchased from us, as defined in Section 1. It does not cover physical orders we accepted for international shipping unless we expressly agree otherwise in writing for that order, as explained under International Orders in Section 1. **The default coverage period is 14 calendar days after delivery**, unless a different period is stated in writing for your order before purchase. Contact us within that period with your order number or other reasonable proof of purchase and a description of the fault. You do not need to complete troubleshooting or ship the device within those 14 days if you reported the fault on time. A timely claim stays open until it is resolved; our assessment or shipping time does not cancel it.
 
 A replacement device receives coverage for the longer of (a) the remaining Limited Hardware Warranty period on the original device or (b) 14 calendar days after delivery of the replacement, unless a longer period is stated in writing or required by law. Replacing a device does not close a timely claim if the replacement fails to resolve the reported problem. Any longer rights required by law still apply.
 

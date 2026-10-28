@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Effective date:** October 24, 2026
+**Effective date:** October 28, 2026
 
 Thanks for your interest in **NamelessNanashi** ("we," "us," "our"). These Terms of Service ("Terms") explain what to expect when you buy our hardware, software, custom work, or services, or use our website. By placing an order or otherwise accepting these Terms, you agree to them.
 
@@ -16,9 +16,9 @@ Nothing in these Terms takes away consumer rights or remedies that the law does 
 
 **You must be at least 18 to buy products or hire us for services.** If the legal age of adulthood where you live is higher, you must meet that age too. If you buy for a company or other organization, you must have permission to agree to these Terms on its behalf.
 
-**Physical orders are limited to the United States.** We do not accept international physical orders or offer international shipping.
+**Physical orders are limited to the United States by default.** Online store orders ship only within the United States. You may ask us to ship a physical order internationally, but **international shipping requests are declined unless we accept them in writing.** We decide each request at our discretion, are not required to accept any request or give a reason for declining, and a request alone does not create an order. If we accept, the items, price, shipping method and cost, customs paperwork, duties, import taxes, and expected timing are agreed in writing before payment. You are responsible for duties, import taxes, and customs fees charged by the destination country, and for making sure the items may legally be imported there, unless we agree otherwise in writing. Because international shipping costs are too high, accepted international orders are not eligible for change-of-mind returns or the no-charge replacement exchange, as explained in our [Refund and Return Policy](REFUND_AND_RETURN_POLICY.md#international-orders).
 
-**Coding, consulting, and other remotely delivered services are available internationally**, where legally permitted. The US-only restriction applies to physical orders, not to remote service work. Any physical items included in a service project remain subject to the physical-order restriction.
+**Coding, consulting, and other remotely delivered services are available internationally**, where legally permitted. The US-only default applies to physical orders, not to remote service work. Any physical items included in a service project remain subject to the physical-order rules above.
 
 ## 2. Our Products and Services
 
