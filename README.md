@@ -57,6 +57,16 @@ Deadlines end at **11:59 p.m. America/Chicago time**. The day after delivery is 
 
 [Read the Refund and Return Policy](REFUND_AND_RETURN_POLICY.md)
 
+## Quality Control and Testing Policy - TL;DR
+
+- **Hubs are tested before they ship:** Each board is erased, flashed, checksum-verified, and boot tested, then its Wi-Fi and RF are tested with our open-source [OpenShock AutoFlasher](https://github.com/NanashiTheNameless/OpenShock-AutoFlasher).
+- **Ready for setup:** Hubs are factory reset after testing, so they arrive with no saved settings.
+- **Printed parts and packing:** Printed parts are inspected for defects and fit, and every order is checked against what was ordered before it is packed.
+- **QC Passed sticker:** Every unit that passes quality control is marked with a holographic QC Passed sticker.
+- **Testing is not a warranty:** It confirms an item worked when it left us. Problems after delivery are covered by the Refund and Return Policy and applicable law.
+
+[Read the Quality Control and Testing Policy](QUALITY_CONTROL_POLICY.md)
+
 ## Need a Hand?
 
 Email us or message us on Discord with your question or order details, and we'll help you work out the next step. Best-effort support is free for every buyer, with no expiration date, subject to our availability.
